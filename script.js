@@ -7,6 +7,22 @@ const prayerPoints = {
         "Pray for good relationships with colleagues",
         "Ask for God’s guidance in career decisions"
         ],
+    
+     Thanksgiving and Worship: [
+        "Father, I thank You for the gift of life and Your endless mercies",
+        "Lord, I worship You for who You are—my provider, protector, and sustainer.",
+        "Thank You, Lord, for the blessings I see and those I don’t.",
+       "I thank You, Father, for answered prayers and future testimonies.",  
+        "Thank You, Lord, for Your unshakable love and grace upon my life.",
+        ],
+    
+    Forgiveness & Mercy: [
+        "Lord, have mercy on me and cleanse me from all unrighteousness." 
+        "Wash me, Lord, and purify my heart from every sin." 
+        "Father, help me to forgive those who have wronged me."
+        "Let Your mercy triumph over judgment in my life."
+        "Grant me the grace to live a holy and righteous life before You.",
+        ],
 
     family: [
         "Pray for unity and love in your family.",
